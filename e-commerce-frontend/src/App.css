@@ -1,0 +1,24 @@
+.rcw-launcher{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rcw-picker-btn{
+    display: none;
+}
+.rcw-sender{
+    display: flex;
+    align-items: center !important;
+    justify-content: space-between;
+}
+.rcw-widget-container h1,h4,p,b {
+    font-family: Inter var, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+.rcw-launcher{
+    --tw-bg-opacity:1;
+    background-color: rgb(79 70 229 / var(--tw-bg-opacity)) !important;
+}
+.rcw-header{
+    --tw-bg-opacity:1;
+    background-color: rgb(79 70 229 / var(--tw-bg-opacity)) !important;
+}
